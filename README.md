@@ -12,9 +12,16 @@ A simple landing page that collects a visitor's email in exchange for a 20% disc
 
 ## Preview
 
+Design inspiration screenshot
 ![Design inspiration screenshot](./screenshots/example.png)
+
+Desktop view
 ![Desktop view](./screenshots/desktop.png)
+
+Tablet view
 ![Tablet view](./screenshots/tablet.png)
+
+Mobile view
 ![Mobile view](./screenshots/mobile.png)
 
 ## Project structure
