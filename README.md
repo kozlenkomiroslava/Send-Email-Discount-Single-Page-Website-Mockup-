@@ -10,6 +10,13 @@ A simple landing page that collects a visitor's email in exchange for a 20% disc
 - "Share with a friend" button using the Web Share API (with a Telegram link fallback on desktop)
 - Responsive layout (stacks into a single column on smaller screens)
 
+## Preview
+
+![Design inspiration screenshot](screenshots/example.png)
+![Desktop view](screenshots/desktop.png)
+![Tablet view](screenshots/tablet.png)
+![Mobile view](screenshots/mobile.png)
+
 ## Project structure
 
 ```
