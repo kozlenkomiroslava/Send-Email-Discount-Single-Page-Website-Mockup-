@@ -24,6 +24,10 @@ Tablet view
 Mobile view
 ![Mobile view](./screenshots/mobile.png)
 
+Modal Window view
+![Modal window view](./screenshots/modal-window.png)
+
+
 ## Project structure
 
 ```
