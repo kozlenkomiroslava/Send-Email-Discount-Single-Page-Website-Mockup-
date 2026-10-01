@@ -2,6 +2,8 @@
 
 A simple landing page that collects a visitor's email in exchange for a 20% discount code. On submit, the email is sent via EmailJS and a confirmation modal appears with a copyable promo code.
 
+My website on Vercel:
+https://send-email-discount-single-page-web.vercel.app/
 ## Features
 
 - Email signup form with validation
